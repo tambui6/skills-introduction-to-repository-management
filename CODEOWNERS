@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @tambui6
+/src/backend/database.py      @tambui6
+/src/backend/routers/auth.py  @tambui6
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @tambui6
